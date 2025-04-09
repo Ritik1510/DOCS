@@ -1,6 +1,7 @@
 Puppeteer is a powerful JavaScript library developed by Google's Chrome team that provides a high-level API to control Chrome or Firefox browsers programmatically[1][6]. It allows developers to automate browser tasks and interactions on web pages without requiring a graphical user interface[3].
 
 ### `Link of website:` <button style="border: 1px solid green; border-radius: 8px; cursor: pointer; background-color: transparent;"><a href="https://pptr.dev/category/introduction">Click Here</a></button> 
+
 ## Key Features and Capabilities
 
 1. **Browser Automation**: Puppeteer enables automation of various browser tasks, including:

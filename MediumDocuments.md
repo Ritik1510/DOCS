@@ -1,0 +1,2 @@
+1. {React query Documentation : <button style="border: 1px solid green; border-radius: 8px; cursor: pointer; background-color: transparent;"><a href="https://medium.com/bina-nusantara-it-division/understanding-react-query-11e56960e90c">Click Here</a></button>}
+2. {RBAC implementation on web apps: <button style="border: 1px solid green; border-radius: 8px; cursor: pointer; background-color: transparent;"><a href="https://medium.com/@akhshyganesh/implement-rbac-in-the-mern-stack-24a8b11f450a">Click Here</a></button>}
